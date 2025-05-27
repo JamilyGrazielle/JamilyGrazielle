@@ -38,5 +38,5 @@ Sempre em busca de novas oportunidades para aprender e colaborar em projetos que
 
 ## 📫 Contato
 
-- Email Pessoal: jamilygrazielle8735@gmail.oom
+- Email Pessoal: jamilygrazielle8735@gmail.com
 - Email Academico: jamilygrazielle@acad.ifma.edu.br
