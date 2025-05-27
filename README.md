@@ -31,7 +31,7 @@ Sempre em busca de novas oportunidades para aprender e colaborar em projetos que
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api?username=JamilyGrazielle&show_icons=true&theme=ayu_mirage" alt="Estatísticas do GitHub" />
-
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamilyGrazielle&layout=compact&theme=ayu_mirage" alt="Linguagens mais usadas" />
 
 </div>
