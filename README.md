@@ -28,7 +28,7 @@ Desenvolvo atividades educacionais com ênfase em **robótica**, **tecnologias a
 
 Sempre em busca de novas oportunidades para aprender e colaborar em projetos que envolvam **tecnologia, inovação e impacto social**.
 
-<div align="center">
+<div align="left">
  
   <img src="https://github-readme-stats.vercel.app/api?username=JamilyGrazielle&show_icons=true&theme=ayu_mirage" alt="Estatísticas do GitHub" />
   <br>
