@@ -30,9 +30,9 @@ Sempre em busca de novas oportunidades para aprender e colaborar em projetos que
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=JamilyGrazielle&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JamilyGrazielle&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamilyGrazielle&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamilyGrazielle&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 
 </div>
 
