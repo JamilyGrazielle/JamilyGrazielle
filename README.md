@@ -28,6 +28,16 @@ Desenvolvo atividades educacionais com ênfase em **robótica**, **tecnologias a
 
 Sempre em busca de novas oportunidades para aprender e colaborar em projetos que envolvam **tecnologia, inovação e impacto social**.
 
+<div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=JamilyGrazielle&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamilyGrazielle&theme=radical" alt="GitHub Streak" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamilyGrazielle&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+
+</div>
+
 ## 📫 Contato
 
 - Email Pessoal: jamilygrazielle8735@gmail.oom
