@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Jamily Grazielle!
 
-<!--
-**JamilyGrazielle/JamilyGrazielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação** no IFMA e apaixonada por **tecnologia, educação e projetos sociais**.
 
-Here are some ideas to get you started:
+## 💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo como monitora em projetos de **capacitação em Sistemas Embarcados**, com foco na linguagem **C** e na utilização do **Raspberry Pi Pico W**. Auxilio estudantes iniciantes no desenvolvimento de habilidades práticas em programação e eletrônica.
+
+Desenvolvo atividades educacionais com ênfase em **robótica**, **tecnologias assistivas** e **programação visual**, utilizando ferramentas como **Scratch**, **mBlock** e **App Inventor** para promover a inclusão e o aprendizado lúdico, especialmente para pessoas com **TEA (Transtorno do Espectro Autista)**.
+
+## 📝 Áreas de atuação
+
+- Tecnologias assistivas e educacionais
+- Jogos digitais e lúdicos
+- Robótica aplicada à educação
+- Design
+- Sistemas embarcados
+
+## 🔧 Habilidades
+
+- Programação em **C**
+- Ensino de lógica de programação
+- Estruturação e gestão de **projetos educacionais**
+- Desenvolvimento com **VS Code**, **Git** e **Raspberry Pi Pico W**
+- Produção de conteúdos acessíveis para públicos diversos
+
+## 🌱 Interesses
+
+Sempre em busca de novas oportunidades para aprender e colaborar em projetos que envolvam **tecnologia, inovação e impacto social**.
+
+## 📫 Contato
+
+- Email Pessoal: jamilygrazielle8735@gmail.oom
+- Email Academico: jamilygrazielle@acad.ifma.edu.br
