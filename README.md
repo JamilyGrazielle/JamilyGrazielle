@@ -31,9 +31,7 @@ Sempre em busca de novas oportunidades para aprender e colaborar em projetos que
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api?username=JamilyGrazielle&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamilyGrazielle&theme=radical" alt="GitHub Streak" />
- 
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamilyGrazielle&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 
 </div>
